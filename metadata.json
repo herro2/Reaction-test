@@ -2,5 +2,7 @@
   "name": "MS Teknis Reaktionstest",
   "description": "Ett tangentbordsbaserat reaktionstest från MS Teknis där du testas på reaktionssnabbhet och tangentkännedom med live-topplista.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
