@@ -43,7 +43,7 @@ export default function App() {
             {!logoError ? (
               <span className="inline-flex items-center rounded-md bg-white/95 px-2 py-1">
                 <img
-                  src="/assets/aistudio/image_745b88ba.png"
+                  src="./assets/aistudio/image_745b88ba.png"
                   alt="MS Teknis"
                   referrerPolicy="no-referrer"
                   onError={() => setLogoError(true)}
@@ -130,7 +130,7 @@ export default function App() {
             {!logoError ? (
               <span className="inline-flex items-center rounded bg-white/95 px-1.5 py-0.5">
                 <img
-                  src="/assets/aistudio/image_745b88ba.png"
+                  src="./assets/aistudio/image_745b88ba.png"
                   alt="MS Teknis logotyp"
                   referrerPolicy="no-referrer"
                   onError={() => setLogoError(true)}
